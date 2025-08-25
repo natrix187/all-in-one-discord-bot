@@ -1,7 +1,8 @@
 {
-  "name": "rock",
+  "name": "Shiba",
   "version": "3.1.0",
-  "description": "",
+  "description": "Natrix mon createur
+  ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
